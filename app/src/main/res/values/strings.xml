@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMi</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_meow">Get me some cats!</string>
+</resources>
